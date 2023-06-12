@@ -17,6 +17,7 @@ continue update 🤗
 
 `2023 ACL` Wukong-Reader: Multi-modal Pre-training for Fine-grained Visual Document Understanding **(Huawei)** [[Paper]](https://arxiv.org/abs/2212.09621)[Code]
 
+`2023 CVPR` Unifying Vision, Text, and Layout for Universal Document Processing **(Microsoft)** [[Paper]](https://arxiv.org/abs/2212.02623)[[Code]](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)
 
 **2022**
 
