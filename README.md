@@ -13,6 +13,28 @@ continue update 🤗
 
 **2023**
 
+`2023 arXiv` Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs **(USTC)** [[Paper]](https://arxiv.org/abs/2311.13194)
+
+`2023 arXiv` DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding **(USTC,ByteDance)** [[Paper]](https://arxiv.org/abs/2311.11810)
+
+`2023 arXiv` Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models **(HUST)** [[Paper]](https://arxiv.org/abs/2311.06607)[[Code]](https://github.com/Yuliang-Liu/Monkey)
+
+`2023 arXiv` Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation **(SCUT)** [[Paper]](https://arxiv.org/abs/2310.16809)[[Code]](https://github.com/SCUT-DLVCLab/GPT-4V_OCR)
+
+`2023 arXiv` UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model **(DAMO,RUC,ECNU)** [[Paper]](https://arxiv.org/abs/2310.05126)[[Code]](https://github.com/LukeForeverYoung/UReader)
+
+`2023 arXiv` Kosmos-2.5: A Multimodal Literate Model **(MSRA)** [[Paper]](https://arxiv.org/abs/2309.11419)[[Code]](https://thegenerality.com/agi/)
+
+`2023 arXiv` UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding **(USTC,ByteDance)** [[Paper]](https://arxiv.org/abs/2308.11592)
+
+`2023 arXiv` mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding **(DAMO)** [[Paper]](https://arxiv.org/abs/2307.02499)[[Code]](https://github.com/X-PLUG/mPLUG-DocOwl)
+
+`2023 arXiv` On the Hidden Mystery of OCR in Large Multimodal Models **(HUST,SCUT,Microsoft)** [[Paper]](https://arxiv.org/abs/2305.07895)[[Code]](https://github.com/Yuliang-Liu/MultimodalOCR)
+
+`2023 arXiv` Visual Information Extraction in the Wild: Practical Dataset and End-to-end Solution **(HUST)** [[Paper]](https://arxiv.org/abs/2305.07498)[[Code]](https://github.com/jfkuang/CFAM)
+
+`2023 arXiv` Document Understanding Dataset and Evaluation (DUDE) [[Paper]](https://arxiv.org/abs/2305.08455)[[Website]](https://rrc.cvc.uab.es/?ch=23)
+
 `2023 ICLR` StrucTexTv2: Masked Visual-Textual Prediction for Document Image Pre-training **(Baidu)** [[Paper]](https://arxiv.org/abs/2303.00289)[[Code]](https://github.com/PaddlePaddle/VIMER/tree/main/StrucTexT)
 
 `2023 ACL` Wukong-Reader: Multi-modal Pre-training for Fine-grained Visual Document Understanding **(Huawei)** [[Paper]](https://arxiv.org/abs/2212.09621)[Code]
