@@ -13,6 +13,8 @@ continue update 🤗
 
 **2023**
 
+`2023 arXiv` mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model **(Alibaba)** [[Paper]](https://arxiv.org/abs/2311.18248)[[Code]](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main)
+
 `2023 arXiv` Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs **(USTC)** [[Paper]](https://arxiv.org/abs/2311.13194)
 
 `2023 arXiv` DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding **(USTC,ByteDance)** [[Paper]](https://arxiv.org/abs/2311.11810)
