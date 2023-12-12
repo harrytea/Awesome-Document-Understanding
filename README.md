@@ -1,13 +1,12 @@
 # Awesome-Document-Understanding [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 > A repository used to collect various document artifical intelligence
 
-Paper format: [year pub] [paper title] [[Paper link]]()[[Code link]]()
-
 continue update 🤗
 
 ## Table of contents
 
 - [Document Understanding](#document-understanding)
+- [Video LLM](#video-llm)
 
 # Document Understanding
 
@@ -68,3 +67,17 @@ continue update 🤗
 - [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://arxiv.org/abs/1912.13318) **(Microsoft)** | 19.12.31 | KDD20 | [Code](https://github.com/microsoft/unilm/tree/master/layoutlm)
 
 </details>
+
+
+# Video LLM
+
+<details open>
+<summary>2023</summary>
+
+- [TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://arxiv.org/abs/2312.02051) **(PKU,Noah)** | 23.12.04  | arXiv | [Code](https://github.com/RenShuhuai-Andy/TimeChat)
+- [Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122) **(PKU,PengCheng)** | 23.11.16 | arXiv | [code](https://github.com/PKU-YuanGroup/Video-LLaVA)
+- [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/abs/2311.08046) **(PKU,PengCheng)** | 23.11.14  | arXiv | [Code](https://github.com/PKU-YuanGroup/Chat-UniVi)
+- [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858) **(DAMO)** | 23.06.05 | arXiv | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+
+</details>
+
