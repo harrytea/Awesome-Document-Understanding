@@ -13,6 +13,7 @@ continue update 🤗
 <details open>
 <summary>2023</summary>
 
+- [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109) **(MEGVII,UCAS,HUST)** | 23.12.11 | arXiv | [Code](https://github.com/Ucas-HaoranWei/Vary)
 - [mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model](https://arxiv.org/abs/2311.18248) **(Alibaba)** | 23.11.30  | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main)
 - [Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs](https://arxiv.org/abs/2311.13194) **(USTC)** | 23.11.22 | arXiv
 - [DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding](https://arxiv.org/abs/2311.11810) **(USTC,ByteDance)** | 23.11.20 | arXiv
