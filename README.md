@@ -6,6 +6,8 @@ continue update 🤗
 ## Table of contents
 
 - [Document Understanding](#document-understanding)
+- [MLLM/LMM](#mllm)
+- [Grounded MLLM](#grounded-mllm)
 - [Video LLM](#video-llm)
 
 # Document Understanding
@@ -35,12 +37,12 @@ continue update 🤗
 
 - [Wukong-Reader: Multi-modal Pre-training for Fine-grained Visual Document Understanding](https://arxiv.org/abs/2212.09621) **(Huawei)** | 22.12.19 | ACL23
 - [Unifying Vision, Text, and Layout for Universal Document Processing](https://arxiv.org/abs/2212.02623) **(Microsoft)** | 22.12.05 | CVPR23 | [Code](https://github.com/microsoft/i-Code/tree/main/i-Code-Doc)
-- [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) **(Alibaba)** | 22.3.14 | [Code Unofficial](https://github.com/Sanster/xy-cut)
-- [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) **(Microsoft)** | 22.04.18 | ACM MM22 | [Code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)
-- [DiT: Self-supervised Pre-training for Document Image Transformer](https://arxiv.org/abs/2203.02378) **(Microsoft)** | 22.03.04 | ACM MM22 | [Code](https://github.com/microsoft/unilm/tree/master/dit)
 - [ERNIE-Layout: Layout Knowledge Enhanced Pre-training for Visually-rich Document Understanding](https://arxiv.org/abs/2210.06155) **(Baidu)** | 22.10.12 | arXiv | [Code](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/ernie-layout)
-- [Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark](https://arxiv.org/abs/2202.06767) **(Huawei)** | 22.2.14 | NIPS22 | [Code](https://wukong-dataset.github.io/wukong-dataset/)
 - [Unified Pretraining Framework for Document Understanding](https://arxiv.org/abs/2204.10939) **(Adobe)** | 22.04.22 | NIPS21
+- [LayoutLMv3: Pre-training for Document AI with Unified Text and Image Masking](https://arxiv.org/abs/2204.08387) **(Microsoft)** | 22.04.18 | ACM MM22 | [Code](https://github.com/microsoft/unilm/tree/master/layoutlmv3)
+- [XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947) **(Alibaba)** | 22.3.14 | [Code Unofficial](https://github.com/Sanster/xy-cut)
+- [DiT: Self-supervised Pre-training for Document Image Transformer](https://arxiv.org/abs/2203.02378) **(Microsoft)** | 22.03.04 | ACM MM22 | [Code](https://github.com/microsoft/unilm/tree/master/dit)
+- [Wukong: A 100 Million Large-scale Chinese Cross-modal Pre-training Benchmark](https://arxiv.org/abs/2202.06767) **(Huawei)** | 22.2.14 | NIPS22 | [Code](https://wukong-dataset.github.io/wukong-dataset/)
 
 </details>
 
@@ -48,8 +50,8 @@ continue update 🤗
 <details open>
 <summary>2021</summary>
 
-- [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836) **(Microsoft)** | 21.04.18 | arXiv | [Code](https://github.com/microsoft/unilm/tree/master/layoutxlm)
 - [LayoutReader: Pre-training of Text and Layout for Reading Order Detection](https://arxiv.org/abs/2108.11591) **(Microsoft)** | 21.08.26 | EMNLP21 | [Code](https://github.com/microsoft/unilm/tree/master/layoutreader)
+- [LayoutXLM: Multimodal Pre-training for Multilingual Visually-rich Document Understanding](https://arxiv.org/abs/2104.08836) **(Microsoft)** | 21.04.18 | arXiv | [Code](https://github.com/microsoft/unilm/tree/master/layoutxlm)
 - [Going Full-TILT Boogie on Document Understanding with Text-Image-Layout Transformer](https://arxiv.org/abs/2102.09550) **(Applica)** | 21.02.18 | ICDAR21 | [Code](https://github.com/uakarsh/TiLT-Implementation)
 
 </details>
@@ -69,6 +71,40 @@ continue update 🤗
 
 </details>
 
+# MLLM
+
+<details open>
+<summary>2023</summary>
+
+- [MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning](https://arxiv.org/abs/2310.09478) **(KAUST,Meta)** | 23.10.14 | arXiv | [Code](https://github.com/Vision-CAIR/MiniGPT-4)
+- [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744) **(UWM,Microsoft)** | 23.10.05 | arXiv | [Code](https://github.com/haotian-liu/LLaVA)
+- [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966) **(Alibaba)** | 23.08.24 | arXiv | [Code](https://github.com/QwenLM/Qwen-VL)
+- [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) **(Azure)** | 23.05.20 | arXiv | [Code](https://github.com/microsoft/MM-REACT)
+- [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) **(Salesforce)** | 23.05.11 | arXiv | [Code](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
+- [mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality](https://arxiv.org/abs/2304.14178) **(DAMO)** | 23.04.27 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-Owl)
+- [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) **(KAUST)** | 23.04.20 | arXiv | [Code](https://github.com/Vision-CAIR/MiniGPT-4)
+- [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) **(UWM,Microsoft)** | 23.04.17 | NeurIPS | [Code](https://github.com/haotian-liu/LLaVA)
+- [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597) **(Salesforce)** | 23.01.30 | arXiv | [Code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)
+
+</details>
+
+
+# Grounded MLLM
+
+<details open>
+<summary>2023</summary>
+
+- [Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://arxiv.org/abs/2310.03744) **(CU,Apple)** | 23.10.11 | arXiv | [Code](https://github.com/apple/ml-ferret)
+- [BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs](https://arxiv.org/abs/2307.08581) **(ByteDance)** | 23.07.17 | arXiv | [Code](https://github.com/magic-research/bubogpt)
+- [Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](https://arxiv.org/abs/2306.15195) **(SenseTime,BUAA,SJTU)** | 23.06.27 | arXiv | [Code](https://github.com/shikras/shikra)
+- [Kosmos-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824) **(Microsoft)** | 23.06.26 | arXiv | [Code](https://github.com/microsoft/unilm/tree/master/kosmos-2)
+
+</details>
+
+
+
+
+
 
 # Video LLM
 
@@ -76,6 +112,7 @@ continue update 🤗
 <summary>2023</summary>
 
 - [TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://arxiv.org/abs/2312.02051) **(PKU,Noah)** | 23.12.04  | arXiv | [Code](https://github.com/RenShuhuai-Andy/TimeChat)
+- [Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models](https://arxiv.org/abs/2311.16103) **(PKU,PengCheng,Microsoft,FarReel)** | 23.11.27 | arXiv | [Code](https://github.com/PKU-YuanGroup/Video-Bench)
 - [Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122) **(PKU,PengCheng)** | 23.11.16 | arXiv | [code](https://github.com/PKU-YuanGroup/Video-LLaVA)
 - [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/abs/2311.08046) **(PKU,PengCheng)** | 23.11.14  | arXiv | [Code](https://github.com/PKU-YuanGroup/Chat-UniVi)
 - [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858) **(DAMO)** | 23.06.05 | arXiv | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
