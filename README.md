@@ -15,11 +15,13 @@ continue update 🤗
 <details open>
 <summary>2023</summary>
 
+- [DocLLM: A layout-aware generative language model for multimodal document understanding](https://arxiv.org/abs/2401.00908) **(JPMorgan AI Research)** | 23.12.31 | arXiv
 - [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109) **(MEGVII,UCAS,HUST)** | 23.12.11 | arXiv | [Code](https://github.com/Ucas-HaoranWei/Vary)
 - [mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model](https://arxiv.org/abs/2311.18248) **(Alibaba)** | 23.11.30  | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main)
 - [Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs](https://arxiv.org/abs/2311.13194) **(USTC)** | 23.11.22 | arXiv
 - [DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding](https://arxiv.org/abs/2311.11810) **(USTC,ByteDance)** | 23.11.20 | arXiv
-- [Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models](https://arxiv.org/abs/2311.06607) **(HUST)** | 23.11.11 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
+- [Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models](https://arxiv.org/abs/2311.06607) **(HUST)** | 23.11.11 | CVPR24 | [Code](https://github.com/Yuliang-Liu/Monkey)
+- [mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration](https://arxiv.org/abs/2311.04257) **(Alibaba)** | 23.11.07 | CVPR24 | [Code](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
 - [Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation](https://arxiv.org/abs/2310.16809) **(SCUT)** | 23.10.25 | arXiv | [Code](https://github.com/SCUT-DLVCLab/GPT-4V_OCR)
 - [UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model](https://arxiv.org/abs/2310.05126) **(DAMO,RUC,ECNU)** | 23.10.08 | arXiv | [Code](https://github.com/LukeForeverYoung/UReader)
 - [Kosmos-2.5: A Multimodal Literate Model](https://arxiv.org/abs/2309.11419) **(MSRA)** | 23.9.20 | arXiv | [Code](https://thegenerality.com/agi/)
@@ -94,6 +96,7 @@ continue update 🤗
 <details open>
 <summary>2023</summary>
 
+- [LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models](https://arxiv.org/abs/2312.02949) **(HKUST,SCUT,IDEA,CUHK)** | 23.12.05 | arXiv | [Code](https://github.com/UX-Decoder/LLaVA-Grounding)
 - [Ferret: Refer and Ground Anything Anywhere at Any Granularity](https://arxiv.org/abs/2310.03744) **(CU,Apple)** | 23.10.11 | arXiv | [Code](https://github.com/apple/ml-ferret)
 - [BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs](https://arxiv.org/abs/2307.08581) **(ByteDance)** | 23.07.17 | arXiv | [Code](https://github.com/magic-research/bubogpt)
 - [Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](https://arxiv.org/abs/2306.15195) **(SenseTime,BUAA,SJTU)** | 23.06.27 | arXiv | [Code](https://github.com/shikras/shikra)
