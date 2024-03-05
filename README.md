@@ -78,6 +78,7 @@ continue update 🤗
 <details open>
 <summary>2023</summary>
 
+- [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/abs/2311.12793) **(USTC,Shanghai AI Lab)** | 23.11.28 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)
 - [MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning](https://arxiv.org/abs/2310.09478) **(KAUST,Meta)** | 23.10.14 | arXiv | [Code](https://github.com/Vision-CAIR/MiniGPT-4)
 - [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744) **(UWM,Microsoft)** | 23.10.05 | arXiv | [Code](https://github.com/haotian-liu/LLaVA)
 - [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966) **(Alibaba)** | 23.08.24 | arXiv | [Code](https://github.com/QwenLM/Qwen-VL)
