@@ -15,10 +15,11 @@ continue update 🤗
 <details open>
 <summary>2023</summary>
 
+- [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) **(HUST)** | 24.3.7 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
 - [DocLLM: A layout-aware generative language model for multimodal document understanding](https://arxiv.org/abs/2401.00908) **(JPMorgan AI Research)** | 23.12.31 | arXiv
 - [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109) **(MEGVII,UCAS,HUST)** | 23.12.11 | arXiv | [Code](https://github.com/Ucas-HaoranWei/Vary)
 - [mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model](https://arxiv.org/abs/2311.18248) **(Alibaba)** | 23.11.30  | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main)
-- [Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs](https://arxiv.org/abs/2311.13194) **(USTC)** | 23.11.22 | arXiv
+- [Towards Improving Document Understanding: An Exploration on Text-Grounding via MLLMs](https://arxiv.org/abs/2311.13194) **(USTC)** | 23.11.22 | arXiv | [Code](https://github.com/harrytea/TGDoc)
 - [DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding](https://arxiv.org/abs/2311.11810) **(USTC,ByteDance)** | 23.11.20 | arXiv
 - [Monkey: Image Resolution and Text Label Are Important Things for Large Multi-modal Models](https://arxiv.org/abs/2311.06607) **(HUST)** | 23.11.11 | CVPR24 | [Code](https://github.com/Yuliang-Liu/Monkey)
 - [mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration](https://arxiv.org/abs/2311.04257) **(Alibaba)** | 23.11.07 | CVPR24 | [Code](https://github.com/X-PLUG/mPLUG-Owl/tree/main/mPLUG-Owl2)
