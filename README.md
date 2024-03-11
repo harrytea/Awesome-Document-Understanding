@@ -12,10 +12,18 @@ continue update 🤗
 
 # Document Understanding
 
+
+<details open>
+<summary>2024</summary>
+
+- [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) **(HUST)** | 24.3.7 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
+
+</details>
+
+
 <details open>
 <summary>2023</summary>
 
-- [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) **(HUST)** | 24.3.7 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
 - [DocLLM: A layout-aware generative language model for multimodal document understanding](https://arxiv.org/abs/2401.00908) **(JPMorgan AI Research)** | 23.12.31 | arXiv
 - [Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models](https://arxiv.org/abs/2312.06109) **(MEGVII,UCAS,HUST)** | 23.12.11 | arXiv | [Code](https://github.com/Ucas-HaoranWei/Vary)
 - [mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Model](https://arxiv.org/abs/2311.18248) **(Alibaba)** | 23.11.30  | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main)
