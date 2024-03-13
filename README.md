@@ -20,6 +20,7 @@ continue update 🤗
 - HRVDA: High-Resolution Visual Document Assistant **(Tencent YouTu Lab,USTC)** | 24.2.29 | CVPR24
 - [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](https://arxiv.org/abs/2402.19014) **(Tencent YouTu Lab)** | 24.2.29 | CVPR24
 - [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model](https://arxiv.org/abs/2401.16420) **(Shanghai AI Lab,CUHK,SenseTime)** | 24.1.29 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
+- [Small Language Model Meets with Reinforced Vision Vocabulary](https://arxiv.org/abs/2401.12503) **(MEGVII,UCAS,HUST)** | 24.1.23 | arXiv | [Code](https://github.com/Ucas-HaoranWei/Vary-toy)
 
 </details>
 
