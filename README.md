@@ -17,6 +17,8 @@ continue update 🤗
 <summary>2024</summary>
 
 - [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) **(HUST)** | 24.3.7 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
+- HRVDA: High-Resolution Visual Document Assistant **(Tencent YouTu Lab,USTC)** | 24.2.29 | CVPR24
+- [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](https://arxiv.org/abs/2402.19014) **(Tencent YouTu Lab)** | 24.2.29 | CVPR24
 - [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model](https://arxiv.org/abs/2401.16420) **(Shanghai AI Lab,CUHK,SenseTime)** | 24.1.29 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 
 </details>
