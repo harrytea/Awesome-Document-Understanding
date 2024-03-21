@@ -16,6 +16,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) **(Alibaba,RUC)** | 24.3.19 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
 - [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) **(HUST)** | 24.3.7 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
 - HRVDA: High-Resolution Visual Document Assistant **(Tencent YouTu Lab,USTC)** | 24.2.29 | CVPR24
 - [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](https://arxiv.org/abs/2402.19014) **(Tencent YouTu Lab)** | 24.2.29 | CVPR24
