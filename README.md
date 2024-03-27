@@ -90,6 +90,15 @@ continue update 🤗
 # MLLM
 
 <details open>
+<summary>2024</summary>
+
+- [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.03.18 | arXiv | [Code](https://github.com/thunlp/LLaVA-UHD)
+
+</details>
+
+
+
+<details open>
 <summary>2023</summary>
 
 - [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238) **(OpenGVLab,NJU,HKU,CUHK,THU,USTC,SenseTime)** | 23.12.21 | CVPR24 | [Code](https://github.com/OpenGVLab/InternVL)
