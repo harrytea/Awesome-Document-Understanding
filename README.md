@@ -39,6 +39,7 @@ continue update 🤗
 - [Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation](https://arxiv.org/abs/2310.16809) **(SCUT)** | 23.10.25 | arXiv | [Code](https://github.com/SCUT-DLVCLab/GPT-4V_OCR)
 - [UReader: Universal OCR-free Visually-situated Language Understanding with Multimodal Large Language Model](https://arxiv.org/abs/2310.05126) **(DAMO,RUC,ECNU)** | 23.10.08 | arXiv | [Code](https://github.com/LukeForeverYoung/UReader)
 - [Kosmos-2.5: A Multimodal Literate Model](https://arxiv.org/abs/2309.11419) **(MSRA)** | 23.9.20 | arXiv | [Code](https://thegenerality.com/agi/)
+- [BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions](https://arxiv.org/abs/2308.09936) **(UC San Diego)** | 23.8.19 | AAAI24 | [Code](https://github.com/mlpc-ucsd/BLIVA)
 - [UniDoc: A Universal Large Multimodal Model for Simultaneous Text Detection, Recognition, Spotting and Understanding](https://arxiv.org/abs/2308.11592) **(USTC,ByteDance)** | 23.8.19 | arXiv
 - [mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding](https://arxiv.org/abs/2307.02499) **(DAMO)** | 23.7.4 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl)
 - [On the Hidden Mystery of OCR in Large Multimodal Models](https://arxiv.org/abs/2305.07895) **(HUST,SCUT,Microsoft)** | 23.5.13 | arXiv | [Code](https://github.com/Yuliang-Liu/MultimodalOCR)
