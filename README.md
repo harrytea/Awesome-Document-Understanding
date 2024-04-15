@@ -19,7 +19,7 @@ continue update 🤗
 - [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab, CUHK, THU, SenseTime)** | 24.4.9 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 - [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) **(Alibaba,RUC)** | 24.3.19 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
 - [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) **(HUST)** | 24.3.7 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
-- HRVDA: High-Resolution Visual Document Assistant **(Tencent YouTu Lab,USTC)** | 24.2.29 | CVPR24
+- [HRVDA: High-Resolution Visual Document Assistant](https://arxiv.org/abs/2404.06918) **(Tencent YouTu Lab,USTC)** | 24.2.29 | CVPR24
 - [Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models](https://arxiv.org/abs/2402.19014) **(Tencent YouTu Lab)** | 24.2.29 | CVPR24
 - [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model](https://arxiv.org/abs/2401.16420) **(Shanghai AI Lab,CUHK,SenseTime)** | 24.1.29 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 - [Small Language Model Meets with Reinforced Vision Vocabulary](https://arxiv.org/abs/2401.12503) **(MEGVII,UCAS,HUST)** | 24.1.23 | arXiv | [Code](https://github.com/Ucas-HaoranWei/Vary-toy)
