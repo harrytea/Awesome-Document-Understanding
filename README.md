@@ -151,7 +151,7 @@ continue update 🤗
 <details open>
 <summary>2023</summary>
 
-- [TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://arxiv.org/abs/2312.02051) **(PKU,Noah)** | 23.12.04  | arXiv | [Code](https://github.com/RenShuhuai-Andy/TimeChat)
+- [TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://arxiv.org/abs/2312.02051) **(PKU,Noah)** | 23.12.04  | CVPR24 | [Code](https://github.com/RenShuhuai-Andy/TimeChat)
 - [Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models](https://arxiv.org/abs/2311.16103) **(PKU,PengCheng,Microsoft,FarReel)** | 23.11.27 | arXiv | [Code](https://github.com/PKU-YuanGroup/Video-Bench)
 - [Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122) **(PKU,PengCheng)** | 23.11.16 | arXiv | [code](https://github.com/PKU-YuanGroup/Video-LLaVA)
 - [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/abs/2311.08046) **(PKU,PengCheng)** | 23.11.14  | arXiv | [Code](https://github.com/PKU-YuanGroup/Chat-UniVi)
