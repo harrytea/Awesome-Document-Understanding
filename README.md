@@ -16,7 +16,8 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
-- [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab, CUHK, THU, SenseTime)** | 24.4.9 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
+- [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,CUHK,THU,NJU,FDU,SenseTime)** | 24.4.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
+- [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab,CUHK,THU,SenseTime)** | 24.4.9 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 - [LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding](https://arxiv.org/abs/2404.05225) **(Alibaba,ZJU)** | 24.4.8 | arXiv | Code
 - [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://arxiv.org/abs/2403.12895) **(Alibaba,RUC)** | 24.3.19 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)
 - [TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document](https://arxiv.org/abs/2403.04473) **(HUST)** | 24.3.7 | arXiv | [Code](https://github.com/Yuliang-Liu/Monkey)
