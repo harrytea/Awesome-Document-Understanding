@@ -98,6 +98,7 @@ continue update 🤗
 
 - [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,SenseTime,THU,NJU,FU,CUHK)** | 24.04.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
 - [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.03.18 | arXiv | [Code](https://github.com/thunlp/LLaVA-UHD)
+- [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model](https://arxiv.org/abs/2401.16420) **(Shanghai AI Lab)** | 24.01.29 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 
 </details>
 
@@ -110,6 +111,7 @@ continue update 🤗
 - [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/abs/2311.12793) **(USTC,Shanghai AI Lab)** | 23.11.28 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)
 - [MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning](https://arxiv.org/abs/2310.09478) **(KAUST,Meta)** | 23.10.14 | arXiv | [Code](https://github.com/Vision-CAIR/MiniGPT-4)
 - [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744) **(UWM,Microsoft)** | 23.10.05 | arXiv | [Code](https://github.com/haotian-liu/LLaVA)
+- [InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition](https://arxiv.org/abs/2309.15112) **(Shanghai AI Lab)** | 23.02.26 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 - [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966) **(Alibaba)** | 23.08.24 | arXiv | [Code](https://github.com/QwenLM/Qwen-VL)
 - [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) **(Azure)** | 23.05.20 | arXiv | [Code](https://github.com/microsoft/MM-REACT)
 - [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) **(Salesforce)** | 23.05.11 | arXiv | [Code](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
@@ -127,6 +129,7 @@ continue update 🤗
 <summary>2024</summary>
 
 - [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://arxiv.org/abs/2404.07973) **(CU,UCSB,Apple)** | 24.04.11 | arXiv | Code
+- [GroundingGPT: Language Enhanced Multi-modal Grounding Model](https://arxiv.org/abs/2401.06071) **(ByteDance,FDU)** | 24.03.05 | arXiv | [Code](https://github.com/lzw-lzw/GroundingGPT)
 
 </details>
 
