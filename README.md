@@ -16,6 +16,9 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [Focus Anywhere for Fine-grained Multi-page Document Understanding](https://arxiv.org/abs/2405.14295) **(UCAS,MEGVII)** | 24.5.23 | arXiv | [Code](https://github.com/ucaslcl/Fox)
+- [MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering](https://arxiv.org/abs/2405.11985) **(ByteDance,HUST)** | 24.5.20 | arXiv | Code
+- [Exploring the Capabilities of Large Multimodal Models on Dense Text](https://arxiv.org/abs/2405.06706) **(HUST)** | 24.5.9 | arXiv | [Code](https://github.com/Yuliang-Liu/MultimodalOCR)
 - [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,CUHK,THU,NJU,FDU,SenseTime)** | 24.4.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
 - [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab,CUHK,THU,SenseTime)** | 24.4.9 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 - [LayoutLLM: Layout Instruction Tuning with Large Language Models for Document Understanding](https://arxiv.org/abs/2404.05225) **(Alibaba,ZJU)** | 24.4.8 | arXiv | Code
