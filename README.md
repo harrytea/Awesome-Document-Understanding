@@ -16,6 +16,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond](https://arxiv.org/abs/2405.21013) **(Baidu)** | 24.5.31 | arXiv | Code
 - [Focus Anywhere for Fine-grained Multi-page Document Understanding](https://arxiv.org/abs/2405.14295) **(UCAS,MEGVII)** | 24.5.23 | arXiv | [Code](https://github.com/ucaslcl/Fox)
 - [MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering](https://arxiv.org/abs/2405.11985) **(ByteDance,HUST)** | 24.5.20 | arXiv | Code
 - [Exploring the Capabilities of Large Multimodal Models on Dense Text](https://arxiv.org/abs/2405.06706) **(HUST)** | 24.5.9 | arXiv | [Code](https://github.com/Yuliang-Liu/MultimodalOCR)
