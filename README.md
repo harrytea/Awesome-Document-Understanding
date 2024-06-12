@@ -16,9 +16,10 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy](https://arxiv.org/abs/2406.01326) **(USTC,ByteDance)** | 24.6.3 | arXiv | [Code](https://huggingface.co/datasets/ByteDance/ComTQA)
 - [StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond](https://arxiv.org/abs/2405.21013) **(Baidu)** | 24.5.31 | arXiv | Code
 - [Focus Anywhere for Fine-grained Multi-page Document Understanding](https://arxiv.org/abs/2405.14295) **(UCAS,MEGVII)** | 24.5.23 | arXiv | [Code](https://github.com/ucaslcl/Fox)
-- [MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering](https://arxiv.org/abs/2405.11985) **(ByteDance,HUST)** | 24.5.20 | arXiv | Code
+- [MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering](https://arxiv.org/abs/2405.11985) **(ByteDance,HUST)** | 24.5.20 | arXiv | [Code](https://github.com/bytedance/MTVQA)
 - [Exploring the Capabilities of Large Multimodal Models on Dense Text](https://arxiv.org/abs/2405.06706) **(HUST)** | 24.5.9 | arXiv | [Code](https://github.com/Yuliang-Liu/MultimodalOCR)
 - [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,CUHK,THU,NJU,FDU,SenseTime)** | 24.4.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
 - [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab,CUHK,THU,SenseTime)** | 24.4.9 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
@@ -100,6 +101,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) **(NVIDIA,HKUST,MIT)** | 24.5.29 | arXiv | Code
 - [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,SenseTime,THU,NJU,FU,CUHK)** | 24.04.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
 - [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.03.18 | arXiv | [Code](https://github.com/thunlp/LLaVA-UHD)
 - [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model](https://arxiv.org/abs/2401.16420) **(Shanghai AI Lab)** | 24.01.29 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
@@ -132,7 +134,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
-
+- [SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model](https://arxiv.org/abs/2406.01584) **(UCSD,HKU,NVIDIA)** | 24.6.3 | arXiv | [Code](https://www.anjiecheng.me/SpatialRGPT)
 - [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://arxiv.org/abs/2404.07973) **(CU,UCSB,Apple)** | 24.04.11 | arXiv | Code
 - [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) **(Apple)** | 24.04.08 | arXiv | Code
 - [GroundingGPT: Language Enhanced Multi-modal Grounding Model](https://arxiv.org/abs/2401.06071) **(ByteDance,FDU)** | 24.03.05 | arXiv | [Code](https://github.com/lzw-lzw/GroundingGPT)
@@ -153,10 +155,16 @@ continue update 🤗
 
 
 
-
-
-
 # Video LLM
+
+
+<details open>
+<summary>2024</summary>
+
+- [Artemis: Towards Referential Understanding in Complex Videos](https://arxiv.org/abs/2406.00258) **(UCAS,UB)** | 24.6.1 | arXiv | [Code](https://github.com/qiujihao19/Artemis)
+
+</details>
+
 
 <details open>
 <summary>2023</summary>
