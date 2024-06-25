@@ -16,6 +16,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730) **(Adobe,GIT)** | 24.01.10 | CVPR24 | Code
 - [TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy](https://arxiv.org/abs/2406.01326) **(USTC,ByteDance)** | 24.6.3 | arXiv | [Code](https://huggingface.co/datasets/ByteDance/ComTQA)
 - [StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond](https://arxiv.org/abs/2405.21013) **(Baidu)** | 24.5.31 | arXiv | Code
 - [Focus Anywhere for Fine-grained Multi-page Document Understanding](https://arxiv.org/abs/2405.14295) **(UCAS,MEGVII)** | 24.5.23 | arXiv | [Code](https://github.com/ucaslcl/Fox)
@@ -114,6 +115,7 @@ continue update 🤗
 <summary>2023</summary>
 
 - [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://arxiv.org/abs/2312.14238) **(OpenGVLab,NJU,HKU,CUHK,THU,USTC,SenseTime)** | 23.12.21 | CVPR24 | [Code](https://github.com/OpenGVLab/InternVL)
+- [ViP-LLaVA: Making Large Multimodal Models Understand Arbitrary Visual Prompts](https://arxiv.org/abs/2312.00784) **(UWM,Cruise LLC)** | 23.12.01 | CVPR24 | [Code](https://github.com/WisconsinAIVision/ViP-LLaVA)
 - [ShareGPT4V: Improving Large Multi-Modal Models with Better Captions](https://arxiv.org/abs/2311.12793) **(USTC,Shanghai AI Lab)** | 23.11.28 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/ShareGPT4V)
 - [MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning](https://arxiv.org/abs/2310.09478) **(KAUST,Meta)** | 23.10.14 | arXiv | [Code](https://github.com/Vision-CAIR/MiniGPT-4)
 - [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744) **(UWM,Microsoft)** | 23.10.05 | arXiv | [Code](https://github.com/haotian-liu/LLaVA)
