@@ -132,6 +132,15 @@ continue update 🤗
 </details>
 
 
+<details open>
+<summary>2022</summary>
+
+- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198) **(Deepmind)** | 22.11.15 | Nips22 | Code
+
+</details>
+
+
+
 # Grounded MLLM
 
 <details open>
