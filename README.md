@@ -16,7 +16,8 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
-- [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730) **(Adobe,GIT)** | 24.01.10 | CVPR24 | Code
+- [Multimodal Table Understanding](https://arxiv.org/abs/2406.08100) **(UCAS,Baidu)** | 24.06.12 | ACL24 | [Code](https://github.com/SpursGoZmy/Table-LLaVA)
+- [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730) **(Adobe,GIT)** | 24.06.10 | CVPR24 | Code
 - [TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy](https://arxiv.org/abs/2406.01326) **(USTC,ByteDance)** | 24.6.3 | arXiv | [Code](https://huggingface.co/datasets/ByteDance/ComTQA)
 - [StrucTexTv3: An Efficient Vision-Language Model for Text-rich Image Perception, Comprehension, and Beyond](https://arxiv.org/abs/2405.21013) **(Baidu)** | 24.5.31 | arXiv | Code
 - [Focus Anywhere for Fine-grained Multi-page Document Understanding](https://arxiv.org/abs/2405.14295) **(UCAS,MEGVII)** | 24.5.23 | arXiv | [Code](https://github.com/ucaslcl/Fox)
