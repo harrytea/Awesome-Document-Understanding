@@ -16,6 +16,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding](https://arxiv.org/abs/2407.01976) **(FDU,ByteDance)** | 24.7.2 | arXiv | COde
 - [Multimodal Table Understanding](https://arxiv.org/abs/2406.08100) **(UCAS,Baidu)** | 24.06.12 | ACL24 | [Code](https://github.com/SpursGoZmy/Table-LLaVA)
 - [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730) **(Adobe,GIT)** | 24.06.10 | CVPR24 | Code
 - [TabPedia: Towards Comprehensive Visual Table Understanding with Concept Synergy](https://arxiv.org/abs/2406.01326) **(USTC,ByteDance)** | 24.6.3 | arXiv | [Code](https://huggingface.co/datasets/ByteDance/ComTQA)
