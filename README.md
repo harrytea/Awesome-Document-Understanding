@@ -151,6 +151,7 @@ continue update 🤗
 <summary>2024</summary>
 
 - [SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model](https://arxiv.org/abs/2406.01584) **(UCSD,HKU,NVIDIA)** | 24.6.3 | arXiv | [Code](https://www.anjiecheng.me/SpatialRGPT)
+- [Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models](https://arxiv.org/abs/2404.13013) **(HKU,ByteDance)** | 24.4.19 | ECCV24 | [Code](https://github.com/FoundationVision/Groma)
 - [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://arxiv.org/abs/2404.07973) **(CU,UCSB,Apple)** | 24.04.11 | arXiv | Code
 - [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) **(Apple)** | 24.04.08 | arXiv | Code
 - [GroundingGPT: Language Enhanced Multi-modal Grounding Model](https://arxiv.org/abs/2401.06071) **(ByteDance,FDU)** | 24.03.05 | arXiv | [Code](https://github.com/lzw-lzw/GroundingGPT)
