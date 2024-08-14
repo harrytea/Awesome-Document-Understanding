@@ -110,6 +110,7 @@ continue update 🤗
 - [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) **(NVIDIA,HKUST,MIT)** | 24.5.29 | arXiv | Code
 - [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,SenseTime,THU,NJU,FU,CUHK)** | 24.04.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
 - [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.03.18 | arXiv | [Code](https://github.com/thunlp/LLaVA-UHD)
+- [Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models](https://arxiv.org/abs/2403.03003) **(XMU)** | 24.03.05 | arXiv | [Code](https://github.com/luogen1996/LLaVA-HR)
 - [DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models](https://arxiv.org/abs/2402.14767) **(CUHK,Shanghai AI Lab)** | 24.2.22 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)
 - [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model](https://arxiv.org/abs/2401.16420) **(Shanghai AI Lab)** | 24.01.29 | arXiv | [Code](https://github.com/InternLM/InternLM-XComposer)
 
