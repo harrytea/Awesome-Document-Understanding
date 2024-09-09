@@ -16,6 +16,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://arxiv.org/abs/2409.01704) **(StepFun,Megvii,UCAS,THU)** | 24.9.3 | arXiv | [Code](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
 - [LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models](https://arxiv.org/abs/2407.19185) **(Adobe,Buffalo)** | 24.7.27 | arXiv | Code
 - [A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding](https://arxiv.org/abs/2407.01976) **(FDU,ByteDance)** | 24.7.2 | arXiv | Code
 - [Multimodal Table Understanding](https://arxiv.org/abs/2406.08100) **(UCAS,Baidu)** | 24.06.12 | ACL24 | [Code](https://github.com/SpursGoZmy/Table-LLaVA)
