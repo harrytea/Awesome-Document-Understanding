@@ -9,6 +9,7 @@ continue update 🤗
 - [MLLM](#mllm)
 - [Grounded MLLM](#grounded-mllm)
 - [Video LLM](#video-llm)
+- [Milestone](#Milestone)
 
 # Document Understanding
 
@@ -196,6 +197,17 @@ continue update 🤗
 - [Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122) **(PKU,PengCheng)** | 23.11.16 | arXiv | [code](https://github.com/PKU-YuanGroup/Video-LLaVA)
 - [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/abs/2311.08046) **(PKU,PengCheng)** | 23.11.14  | arXiv | [Code](https://github.com/PKU-YuanGroup/Chat-UniVi)
 - [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858) **(DAMO)** | 23.06.05 | arXiv | [code](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+
+</details>
+
+
+
+# Milestone
+
+<details open>
+<summary>Qwen</summary>
+
+- [Qwen Technical Report](https://arxiv.org/abs/2309.16609) **(Alibaba)** | 23.9.28
 
 </details>
 
