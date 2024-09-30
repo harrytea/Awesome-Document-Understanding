@@ -6,7 +6,7 @@ continue update 🤗
 ## Table of contents
 
 - [Document Understanding](#document-understanding)
-- [MLLM/LMM](#mllm)
+- [MLLM](#mllm)
 - [Grounded MLLM](#grounded-mllm)
 - [Video LLM](#video-llm)
 
