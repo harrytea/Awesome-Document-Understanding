@@ -5,11 +5,26 @@ continue update 🤗
 
 ## Table of contents
 
+- [Milestone](#Milestone)
 - [Document Understanding](#document-understanding)
 - [MLLM](#mllm)
 - [Grounded MLLM](#grounded-mllm)
 - [Video LLM](#video-llm)
-- [Milestone](#Milestone)
+
+
+# Milestone
+
+<details open>
+<summary>Qwen</summary>
+
+- [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966) **(Alibaba)** | 23.8.24
+- [Qwen Technical Report](https://arxiv.org/abs/2309.16609) **(Alibaba)** | 23.9.28
+- [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671) **(Alibaba)** | 24.7.15
+- [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) **(Alibaba)** | 24.9.18
+
+
+</details>
+
 
 # Document Understanding
 
@@ -202,12 +217,4 @@ continue update 🤗
 
 
 
-# Milestone
-
-<details open>
-<summary>Qwen</summary>
-
-- [Qwen Technical Report](https://arxiv.org/abs/2309.16609) **(Alibaba)** | 23.9.28
-
-</details>
 
