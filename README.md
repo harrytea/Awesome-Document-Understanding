@@ -36,6 +36,19 @@ continue update 🤗
 </details>
 
 
+<details open>
+<summary>Intern</summary>
+
+- [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320) **(Shanghai AI Lab)** | 24.7.3
+- [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab)** | 24.4.9
+- [InternLM2 Technical Report](https://arxiv.org/abs/2403.17297) **(Shanghai AI Lab)** | 24.3.26
+- [InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model](https://arxiv.org/abs/2401.16420) **(Shanghai AI Lab)** | 24.1.29
+- [InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition](https://arxiv.org/abs/2309.15112) **(Shanghai AI Lab)** | 23.9.26
+- [InternLM: A Multilingual Language Model with Progressively Enhanced Capabilities](https://github.com/InternLM/InternLM-techreport/blob/main/InternLM.pdf) **(Shanghai AI Lab)** | 23.6.3
+
+</details>
+
+
 
 
 # Document Understanding
