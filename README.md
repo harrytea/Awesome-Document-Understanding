@@ -15,15 +15,27 @@ continue update 🤗
 # Milestone
 
 <details open>
-<summary>Qwen</summary>
+<summary>LLaMA</summary>
 
-- [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966) **(Alibaba)** | 23.8.24
-- [Qwen Technical Report](https://arxiv.org/abs/2309.16609) **(Alibaba)** | 23.9.28
-- [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671) **(Alibaba)** | 24.7.15
-- [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) **(Alibaba)** | 24.9.18
-
+- [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) **(Meta)** | 24.7.13
+- [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) **(Meta)** | 23.7.18
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) **(Meta)** | 23.2.27
 
 </details>
+
+
+
+<details open>
+<summary>Qwen</summary>
+
+- [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) **(Alibaba)** | 24.9.18
+- [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671) **(Alibaba)** | 24.7.15
+- [Qwen Technical Report](https://arxiv.org/abs/2309.16609) **(Alibaba)** | 23.9.28
+- [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](https://arxiv.org/abs/2308.12966) **(Alibaba)** | 23.8.24
+
+</details>
+
+
 
 
 # Document Understanding
