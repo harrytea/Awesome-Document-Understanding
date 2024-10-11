@@ -60,6 +60,7 @@ continue update 🤗
 - [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420) **(Alibaba,RUC)** | 24.9.5 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl2)
 - [General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://arxiv.org/abs/2409.01704) **(StepFun,Megvii,UCAS,THU)** | 24.9.3 | arXiv | [Code](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
 - [LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models](https://arxiv.org/abs/2407.19185) **(Adobe,Buffalo)** | 24.7.27 | arXiv | Code
+- [Harmonizing Visual Text Comprehension and Generation](https://arxiv.org/abs/2407.16364) **(ECNU,ByteDance)** | 24.7.23 | 24NIPS | Code
 - [A Bounding Box is Worth One Token: Interleaving Layout and Text in a Large Language Model for Document Understanding](https://arxiv.org/abs/2407.01976) **(FDU,ByteDance)** | 24.7.2 | arXiv | Code
 - [Multimodal Table Understanding](https://arxiv.org/abs/2406.08100) **(UCAS,Baidu)** | 24.06.12 | ACL24 | [Code](https://github.com/SpursGoZmy/Table-LLaVA)
 - [TRINS: Towards Multimodal Language Models that Can Read](https://arxiv.org/abs/2406.06730) **(Adobe,GIT)** | 24.06.10 | CVPR24 | Code
