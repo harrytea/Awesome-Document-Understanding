@@ -57,6 +57,7 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens](https://arxiv.org/abs/2410.05261) **(Huawei)** | 24.10.7 | arXiv | Code
 - [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420) **(Alibaba,RUC)** | 24.9.5 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl2)
 - [General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model](https://arxiv.org/abs/2409.01704) **(StepFun,Megvii,UCAS,THU)** | 24.9.3 | arXiv | [Code](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
 - [LLaVA-Read: Enhancing Reading Ability of Multimodal Language Models](https://arxiv.org/abs/2407.19185) **(Adobe,Buffalo)** | 24.7.27 | arXiv | Code
