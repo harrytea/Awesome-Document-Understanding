@@ -15,6 +15,19 @@ continue update 🤗
 # Milestone
 
 <details open>
+<summary>VILA</summary>
+
+- [VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533) **(NVIDIA,MIT)** | 23.12.12
+- [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) **(NVIDIA,MIT,KAUST)** | 24.5.29
+- [VILA2: VILA Augmented VILA](https://arxiv.org/abs/2307.09288) **(NVIDIA,MIT,UT-Austin)** | 24.7.24
+- [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](https://arxiv.org/abs/2408.10188) **(NVIDIA,MIT,KAUST)** | 24.8.19
+- [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) **(THU,MIT,NVIDIA,UCB,UCSD)** | 24.9.6
+
+
+</details>
+
+
+<details open>
 <summary>LLaMA</summary>
 
 - [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) **(Meta)** | 24.7.13
