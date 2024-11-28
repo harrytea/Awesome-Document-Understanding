@@ -1,9 +1,14 @@
-# Awesome-Document-Understanding [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-> A repository used to collect various document artifical intelligence
+<div align="center">
 
+# 🌟 Awesome-Document-Understanding [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+A curated list of awesome Document Understanding resources, including papers, codes, and datasets.
+</div>
+
+---
 continue update 🤗
 
-## Table of contents
+## 📋 Table of contents
 
 - [Milestone](#Milestone)
 - [Document Understanding](#document-understanding)
@@ -12,7 +17,7 @@ continue update 🤗
 - [Video LLM](#video-llm)
 
 
-# Milestone
+## 🏆 Milestone
 
 <details open>
 <summary>VILA</summary>
@@ -64,7 +69,7 @@ continue update 🤗
 
 
 
-# Document Understanding
+## 📑 Document Understanding
 
 
 <details open>
@@ -161,7 +166,7 @@ continue update 🤗
 
 </details>
 
-# MLLM
+## 🔮 MLLM
 
 <details open>
 <summary>2024</summary>
@@ -207,7 +212,7 @@ continue update 🤗
 
 
 
-# Grounded MLLM
+## 🎯 Grounded MLLM
 
 <details open>
 <summary>2024</summary>
@@ -234,7 +239,7 @@ continue update 🤗
 
 
 
-# Video LLM
+## 🎬 Video LLM
 
 
 <details open>
