@@ -27,7 +27,7 @@ continue update 🤗
 - [VILA2: VILA Augmented VILA](https://arxiv.org/abs/2307.09288) **(NVIDIA,MIT,UT-Austin)** | 24.7.24
 - [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](https://arxiv.org/abs/2408.10188) **(NVIDIA,MIT,KAUST)** | 24.8.19
 - [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) **(THU,MIT,NVIDIA,UCB,UCSD)** | 24.9.6
-
+- [NVILA: Efficient Frontier Visual Language Models](https://arxiv.org/abs/2412.04468) **(NVIDIA,MIT,UCB,TW,THU)** | 24.12.5
 
 </details>
 
