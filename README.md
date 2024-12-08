@@ -19,6 +19,17 @@ continue update 🤗
 
 ## 🏆 Milestone
 
+
+<details open>
+<summary>MiniCPM</summary>
+
+- [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/abs/2408.01800) **(OpenBMB)** | 24.8.3
+- [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) **(THU,ModelBest)** | 24.4.9
+- [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.3.18
+- [Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages](https://arxiv.org/abs/2308.12038) **(THU,ShanghaiAILab,Zhuhu,ModelBest)** | 23.8.23
+
+</details>
+
 <details open>
 <summary>VILA</summary>
 
@@ -171,8 +182,10 @@ continue update 🤗
 <details open>
 <summary>2024</summary>
 
+- [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/abs/2408.01800) **(OpenBMB)** | 24.8.3
 - [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) **(NVIDIA,HKUST,MIT)** | 24.5.29 | arXiv | Code
 - [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,SenseTime,THU,NJU,FU,CUHK)** | 24.04.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
+- [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) **(THU,ModelBest)** | 24.4.9
 - [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://arxiv.org/abs/2403.18814) **(CUHK,SmartMore)** | 24.3.27 | [Code](https://github.com/dvlab-research/MGM)
 - [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.03.18 | arXiv | [Code](https://github.com/thunlp/LLaVA-UHD)
 - [Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models](https://arxiv.org/abs/2403.03003) **(XMU)** | 24.03.05 | arXiv | [Code](https://github.com/luogen1996/LLaVA-HR)
