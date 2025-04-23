@@ -33,12 +33,13 @@ continue update 🤗
 <details open>
 <summary>VILA</summary>
 
-- [VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533) **(NVIDIA,MIT)** | 23.12.12
-- [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) **(NVIDIA,MIT,KAUST)** | 24.5.29
-- [VILA2: VILA Augmented VILA](https://arxiv.org/abs/2307.09288) **(NVIDIA,MIT,UT-Austin)** | 24.7.24
-- [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](https://arxiv.org/abs/2408.10188) **(NVIDIA,MIT,KAUST)** | 24.8.19
-- [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) **(THU,MIT,NVIDIA,UCB,UCSD)** | 24.9.6
+
 - [NVILA: Efficient Frontier Visual Language Models](https://arxiv.org/abs/2412.04468) **(NVIDIA,MIT,UCB,TW,THU)** | 24.12.5
+- [VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation](https://arxiv.org/abs/2409.04429) **(THU,MIT,NVIDIA,UCB,UCSD)** | 24.9.6
+- [LongVILA: Scaling Long-Context Visual Language Models for Long Videos](https://arxiv.org/abs/2408.10188) **(NVIDIA,MIT,KAUST)** | 24.8.19
+- [VILA2: VILA Augmented VILA](https://arxiv.org/abs/2307.09288) **(NVIDIA,MIT,UT-Austin)** | 24.7.24
+- [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) **(NVIDIA,MIT,KAUST)** | 24.5.29
+- [VILA: On Pre-training for Visual Language Models](https://arxiv.org/abs/2312.07533) **(NVIDIA,MIT)** | 23.12.12
 
 </details>
 
@@ -57,6 +58,7 @@ continue update 🤗
 <details open>
 <summary>Qwen</summary>
 
+- [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923) **(Alibaba)** | 25.2.19
 - [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) **(Alibaba)** | 24.9.18
 - [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671) **(Alibaba)** | 24.7.15
 - [Qwen Technical Report](https://arxiv.org/abs/2309.16609) **(Alibaba)** | 23.9.28
@@ -68,6 +70,7 @@ continue update 🤗
 <details open>
 <summary>Intern</summary>
 
+- [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479) **(Shanghai AI Lab)** | 25.4.14
 - [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320) **(Shanghai AI Lab)** | 24.7.3
 - [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab)** | 24.4.9
 - [InternLM2 Technical Report](https://arxiv.org/abs/2403.17297) **(Shanghai AI Lab)** | 24.3.26
@@ -84,8 +87,22 @@ continue update 🤗
 
 
 <details open>
+<summary>2025</summary>
+
+
+- [Towards Visual Text Grounding of Multimodal Large Language Model](https://www.arxiv.org/abs/2504.04974) **(Adobe,Maryland)** | 25.4.7
+- [A Simple yet Effective Layout Token in Large Language Models for Document Understanding](https://arxiv.org/abs/2503.18434) **(ZJU,Alibaba)** | 25.3.24
+- [MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding](https://arxiv.org/abs/2503.13964) **(Adobe)** | 25.3.18
+- [PP-DocBee: Improving Multimodal Document Understanding Through a Bag of Tricks](https://arxiv.org/abs/2503.04065) **(Baidu)** | 25.3.6
+
+</details>
+
+
+
+<details open>
 <summary>2024</summary>
 
+- [DocVLM: Make Your VLM an Efficient Reader](https://arxiv.org/abs/2412.08746) **(AWS)** | 24.12.11
 - [TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens](https://arxiv.org/abs/2410.05261) **(Huawei)** | 24.10.7 | arXiv | Code
 - [DocKD: Knowledge Distillation from LLMs for Open-World Document Understanding Models](https://arxiv.org/abs/2410.03061) **(KAIST,AWS)** | 24.10.4 | arXiv | Code
 - [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420) **(Alibaba,RUC)** | 24.9.5 | arXiv | [Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl2)
@@ -179,10 +196,30 @@ continue update 🤗
 
 ## 🔮 MLLM
 
+
+<details open>
+<summary>2025</summary>
+
+- [VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model](https://arxiv.org/abs/2504.04974) **(ZJU,Om AI)** | 25.4.10
+- [Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources](https://arxiv.org/abs/2504.00595) **(UCSB,ByteDance,Nvidia)** | 25.4.1 
+- [R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization](https://arxiv.org/abs/2503.12937) **(NTU,THU)** | 25.3.17
+- [R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization](https://arxiv.org/abs/2503.10615) **(ZJU,RUC,Tencent)** | 25.3.13
+- [Oasis: One Image is All You Need for Multimodal Instruction Data Synthesis](https://arxiv.org/abs/2503.08741) **(TJU,ByteDance)** | 25.3.11
+- [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/abs/2503.07536) **(CUHK,FDU,Ant Group)** | 25.3.10
+- [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/abs/2503.06749) **(ECNU,Xionghongshu)** | 25.3.9
+
+</details>
+
 <details open>
 <summary>2024</summary>
 
+- [FastVLM: Efficient Vision Encoding for Vision Language Models](https://arxiv.org/abs/2412.13303) **(Apple)** | 24.12.17
+- [OmniVLM: A Token-Compressed, Sub-Billion-Parameter Vision-Language Model for Efficient On-Device Inference](https://arxiv.org/abs/2412.11475) **(NexaAI)** | 24.12.16
+- [Improving Multi-modal Large Language Model through Boosting Vision Capabilities](https://arxiv.org/abs/2410.13733) **(NJUST,Baidu,HUST)** | 24.10.17
+- [Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models](https://arxiv.org/abs/2409.17146) **(Allen,UW)** | 24.9.25
+- [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/abs/2408.03326) **(ByteDance,NTU,CUHK,HKUST)** | 24.8.6
 - [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/abs/2408.01800) **(OpenBMB)** | 24.8.3
+- [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](https://arxiv.org/abs/2406.16860) **(NYU)** | 24.6.24
 - [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335) **(NVIDIA,HKUST,MIT)** | 24.5.29 | arXiv | Code
 - [How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites](https://arxiv.org/abs/2404.16821) **(Shanghai AI Lab,SenseTime,THU,NJU,FU,CUHK)** | 24.04.25 | arXiv | [Code](https://github.com/OpenGVLab/InternVL)
 - [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) **(THU,ModelBest)** | 24.4.9
@@ -233,6 +270,7 @@ continue update 🤗
 - [SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model](https://arxiv.org/abs/2406.01584) **(UCSD,HKU,NVIDIA)** | 24.6.3 | arXiv | [Code](https://www.anjiecheng.me/SpatialRGPT)
 - [Groma: Localized Visual Tokenization for Grounding Multimodal Large Language Models](https://arxiv.org/abs/2404.13013) **(HKU,ByteDance)** | 24.4.19 | ECCV24 | [Code](https://github.com/FoundationVision/Groma)
 - [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://arxiv.org/abs/2404.07973) **(CU,UCSB,Apple)** | 24.04.11 | arXiv | Code
+- [SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors](https://arxiv.org/abs/2403.13438) **(University of Oxford)** | 24.3.18
 - [Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs](https://arxiv.org/abs/2404.05719) **(Apple)** | 24.04.08 | arXiv | Code
 - [GroundingGPT: Language Enhanced Multi-modal Grounding Model](https://arxiv.org/abs/2401.06071) **(ByteDance,FDU)** | 24.03.05 | arXiv | [Code](https://github.com/lzw-lzw/GroundingGPT)
 
