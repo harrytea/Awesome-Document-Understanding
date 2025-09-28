@@ -23,6 +23,7 @@ continue update 🤗
 <details open>
 <summary>MiniCPM</summary>
 
+- [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/abs/2509.18154)  **(OpenBMB)** | 25.8.25
 - [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/abs/2408.01800) **(OpenBMB)** | 24.8.3
 - [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) **(THU,ModelBest)** | 24.4.9
 - [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.3.18
@@ -47,6 +48,7 @@ continue update 🤗
 <details open>
 <summary>LLaMA</summary>
 
+- [The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation](https://ai.meta.com/blog/llama-4-multimodal-intelligence/) **(Meta)** | 25.4.5
 - [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) **(Meta)** | 24.7.13
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) **(Meta)** | 23.7.18
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) **(Meta)** | 23.2.27
@@ -58,6 +60,8 @@ continue update 🤗
 <details open>
 <summary>Qwen</summary>
 
+- [Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list)  **(Alibaba)** | 25.9.23
+- [Qwen3-Omni Technical Report](https://arxiv.org/abs/2509.17765)  **(Alibaba)** | 25.9.22
 - [Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923) **(Alibaba)** | 25.2.19
 - [Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191) **(Alibaba)** | 24.9.18
 - [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671) **(Alibaba)** | 24.7.15
@@ -70,7 +74,10 @@ continue update 🤗
 <details open>
 <summary>Intern</summary>
 
+- [InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/abs/2508.18265)  **(Shanghai AI Lab)** | 25.8.25
 - [InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models](https://arxiv.org/abs/2504.10479) **(Shanghai AI Lab)** | 25.4.14
+- [Mini-InternVL 2.0: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance](https://internvl.github.io/blog/2024-10-21-Mini-InternVL-2.0/) **(Shanghai AI Lab)** | 24.10.21
+- [Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance](https://arxiv.org/abs/2410.16261) **(Shanghai AI Lab)** | 24.10.21
 - [InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output](https://arxiv.org/abs/2407.03320) **(Shanghai AI Lab)** | 24.7.3
 - [InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD](https://arxiv.org/abs/2404.06512) **(Shanghai AI Lab)** | 24.4.9
 - [InternLM2 Technical Report](https://arxiv.org/abs/2403.17297) **(Shanghai AI Lab)** | 24.3.26
