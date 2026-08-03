@@ -23,7 +23,6 @@ continue update 🤗
 <details open>
 <summary>MiniCPM</summary>
 
-- [LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?](https://arxiv.org/abs/2605.08985) **(THU,ModelBest)** | 26.5.9
 - [MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction](https://arxiv.org/abs/2604.27393) **(OpenBMB)** | 26.4.30
 - [MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling](https://arxiv.org/abs/2602.11761) **(OpenBMB)** | 26.2.12
 - [InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation](https://arxiv.org/abs/2509.24663) **(THU,OpenBMB,HIT)** | 25.9.29
@@ -192,6 +191,7 @@ continue update 🤗
 <details open>
 <summary>LLaVA</summary>
 
+- [LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?](https://arxiv.org/abs/2605.08985) **(THU,ModelBest)** | 26.5.9
 - [LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://arxiv.org/abs/2509.23661) **(LLaVA Community)** | 25.9.28
 - [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/abs/2408.03326) **(ByteDance,NTU,CUHK,HKUST)** | 24.8.6
 - [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/abs/2310.03744) **(UWM,Microsoft)** | 23.10.5
