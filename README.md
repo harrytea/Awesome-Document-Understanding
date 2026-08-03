@@ -23,13 +23,20 @@ continue update 🤗
 <details open>
 <summary>MiniCPM</summary>
 
+- [LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?](https://arxiv.org/abs/2605.08985) **(THU,ModelBest)** | 26.5.9
+- [MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction](https://arxiv.org/abs/2604.27393) **(OpenBMB)** | 26.4.30
+- [MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling](https://arxiv.org/abs/2602.11761) **(OpenBMB)** | 26.2.12
+- [InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long Adaptation](https://arxiv.org/abs/2509.24663) **(THU,OpenBMB,HIT)** | 25.9.29
 - [MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe](https://arxiv.org/abs/2509.18154) **(OpenBMB)** | 25.9.16
+- [MiniCPM4: Ultra-Efficient LLMs on End Devices](https://arxiv.org/abs/2506.07900) **(OpenBMB)** | 25.6.9
 - [MiniCPM-V: A GPT-4V Level MLLM on Your Phone](https://arxiv.org/abs/2408.01800) **(OpenBMB)** | 24.8.3
 - [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395) **(THU,ModelBest)** | 24.4.9
 - [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://arxiv.org/abs/2403.11703) **(THU,NUS,UCAS)** | 24.3.18
-- [Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages](https://arxiv.org/abs/2308.12038) **(THU,ShanghaiAILab,Zhuhu,ModelBest)** | 23.8.23
+- [Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages](https://arxiv.org/abs/2308.12038) **(THU,ShanghaiAILab,BUPT,RUC,Zhihu,ModelBest)** | 23.8.23
 
 </details>
+
+
 
 <details open>
 <summary>VILA</summary>
