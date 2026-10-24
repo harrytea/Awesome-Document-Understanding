@@ -255,6 +255,7 @@ continue update 🤗
 - [Logics-Parsing Technical Report](https://arxiv.org/abs/2509.19760) **(Alibaba)** | 25.9.24
 - [POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models for Document Conversion](https://arxiv.org/abs/2509.01215) **(Tencent)** | 25.9.1
 - [DocThinker: Explainable Multimodal Large Language Models with Rule-based Reinforcement Learning for Document Understanding](https://arxiv.org/abs/2508.08589) **(HUST,Alibaba)** | 25.8.12
+- [MMESGBench: Pioneering Multimodal Understanding and Complex Reasoning Benchmark for ESG Tasks](https://arxiv.org/abs/2507.18932) **(NTU)** | 25.7.25
 - [MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm](https://arxiv.org/abs/2506.05218) **(HUST)** | 25.6.5
 - [Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting](https://arxiv.org/abs/2505.14059) **(ByteDance)** | 25.5.20
 - [Towards Visual Text Grounding of Multimodal Large Language Model](https://www.arxiv.org/abs/2504.04974) **(Adobe,Maryland)** | 25.4.7
